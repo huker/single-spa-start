@@ -12,7 +12,8 @@
     "last 4 Safari major versions",
     "last 10 Chrome major versions",
     "last 10 Firefox major versions",
-    "last 4 Edge major versions"
+    "last 4 Edge major versions",
+    "last 2 version"
   ],
   "repository": {
     "type": "git",
